@@ -1,4 +1,4 @@
-Text Color Changer
+## Text Color Changer
 
 ### App Description
 `TODO://` changes the color of text when a button is pressed
